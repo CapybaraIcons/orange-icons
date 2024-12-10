@@ -12,7 +12,7 @@ A free, simple, open-source icon pack designed for clarity and flexibility.
 
 -----------------------------------------------------------
 
-📢 Package Installation Coming Soon!
+📘 How to use
 
 Currently, you can use these icons by:
 
@@ -20,6 +20,8 @@ Currently, you can use these icons by:
 - Copying individual SVG files into your project
 
  -----------------------------------------------------------
+
+📢 Package Installation Coming Soon!
 
 Package installation and npm/yarn support are in development. Stay tuned! 🚧
 
