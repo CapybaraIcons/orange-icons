@@ -18,12 +18,11 @@ Currently, you can use these icons by:
 
 - Downloading SVGs directly from the repository
 - Copying individual SVG files into your project
+- To use these icons in your project, you can install the package via npm. Run the following command in your terminal:
+```
+npm install <orange_icons>
+```
 
- -----------------------------------------------------------
-
-📢 Package Installation Coming Soon!
-
-Package installation and npm/yarn support are in development. Stay tuned! 🚧
 
 -----------------------------------------------------------
 
