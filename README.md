@@ -1,13 +1,12 @@
 🍊 Orange Icons 
-A free, open-source icon pack designed for pixel-perfect clarity and flexibility.
+A free, simple, open-source icon pack designed for clarity and flexibility.
 
 -----------------------------------------------------------
 
 ✨ Features
 
-Clean 24x24px Base Design: Crisp, consistent icons that look sharp at any scale
-
-- Scalable: Renders from 1pt to any size in between
+- 24x24px Design: Crisp, consistent icons based on a 24px grid
+- Scalable: Renders wellin any size between 1pt to 2pt
 - Open Source: 100% free to use in personal and commercial projects
 
 -----------------------------------------------------------
