@@ -1,0 +1,23 @@
+{
+  "name": "orange_icons",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Open source, free, 24px 1pt icons. Works very well up to 2pt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CapybaraIcons/orange-icons.git"
+  },
+  "keywords": [
+    "icons"
+  ],
+  "author": "AstroAstra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CapybaraIcons/orange-icons/issues"
+  },
+  "homepage": "https://github.com/CapybaraIcons/orange-icons#readme"
+}
