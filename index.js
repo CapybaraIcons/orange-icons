@@ -1,3 +1,4 @@
+export { default as Accessibility } from './accessibility.svg';
 export { default as AttachmentPlus } from './attachment-plus.svg';
 export { default as Bookmark } from './bookmark.svg';
 export { default as Camera } from './camera.svg';
