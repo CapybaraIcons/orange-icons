@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/CapybaraIcons/orange-icons/issues"
   },
-  "homepage": "https://github.com/CapybaraIcons/orange-icons#readme"
+  "homepage": "https://github.com/CapybaraIcons/orange-icons#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
