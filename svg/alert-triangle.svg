@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="uuid-caf9d426-a14f-4111-bd05-4d6dfeccf654" xmlns="http://www.w3.org/2000/svg" width="18.12" height="16.01" viewBox="0 0 18.12 16.01"><circle cx="9.06" cy="12.4" r=".28" stroke="#000" stroke-miterlimit="10"/><polygon points="9.06 6.16 8.78 6.16 9.06 10.87 9.34 6.16 9.06 6.16" stroke="#000" stroke-miterlimit="10"/><path d="m8.46.85L.59,14.47c-.27.46.07,1.04.6,1.04h15.73c.53,0,.87-.58.6-1.04L9.66.85c-.27-.46-.93-.46-1.2,0Z" fill="none" stroke="#000" stroke-miterlimit="10"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.17 15.18">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="8.59" cy="11.72" r=".31"/>
+  <polygon class="cls-1" points="8.59 4.7 8.27 4.7 8.59 9.99 8.9 4.7 8.59 4.7"/>
+  <path class="cls-2" d="m8.02.83L.59,13.69c-.26.43.07.98.57.98h14.86c.5,0,.82-.55.57-.98L9.16.83c-.26-.43-.88-.43-1.13,0Z"/>
+</svg>
