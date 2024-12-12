@@ -1,6 +1,6 @@
 # What is orange icons?
 
-Orange icons is free, open-source icon pack designed with flexibility in mind.
+Orange icons is a free, open-source icon pack designed with flexibility in mind.
 
 ## ✨ Features
 
