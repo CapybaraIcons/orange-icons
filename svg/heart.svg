@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="uuid-b79248a8-b9f0-4bed-8e0c-59db8138ec52" xmlns="http://www.w3.org/2000/svg" width="20.36" height="17.22" viewBox="0 0 20.36 17.22"><path d="m10.18,2.97l-.98-.98h0C7.21,0,3.98,0,1.99,1.99h0C0,3.98,0,7.21,1.99,9.2l.98.98s5.07,4.22,6.71,6.29c.26.33.74.33,1,0,1.63-2.07,6.71-6.29,6.71-6.29l.98-.98c1.99-1.99,1.99-5.22,0-7.21h0c-1.99-1.99-5.22-1.99-7.21,0h0s-.98.98-.98.98Z" fill="none" stroke="#000" stroke-linecap="round"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.97 15.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m8.99,2.67l-.86-.86h0C6.38.06,3.55.06,1.81,1.81h0C.06,3.55.06,6.38,1.81,8.13l.86.86s4.44,3.7,5.88,5.51c.23.29.65.29.88,0,1.43-1.81,5.88-5.51,5.88-5.51l.86-.86c1.74-1.74,1.74-4.57,0-6.32h0C14.42.06,11.59.06,9.84,1.81h0s-.86.86-.86.86Z"/>
+</svg>
