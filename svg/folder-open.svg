@@ -1,1 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="uuid-b67b4142-659f-4eff-874d-5c5ed69b4a36" xmlns="http://www.w3.org/2000/svg" width="18.17" height="16.5" viewBox="0 0 18.17 16.5"><path d="m.53,14.24l.09-11.94c0-.99.81-1.8,1.8-1.8h5.55l1.14,1.87h5.77v2.11" fill="none" stroke="#000" stroke-linejoin="round"/><path d="m14.47,16H1.96c-.96,0-1.6-.79-1.43-1.75l1.13-6.48c.17-.97,1.08-1.75,2.04-1.75h12.51c.96,0,1.6.79,1.43,1.75l-1.13,6.48c-.17.97-1.08,1.75-2.04,1.75Z" fill="none" stroke="#000" stroke-linejoin="round"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.19 13.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m.5,13.1l.08-11.07c0-.85.69-1.54,1.54-1.54h4.74l.97,1.6h5.88v1.8"/>
+  <path class="cls-1" d="m12.74,13.1H.51l2.9-6.21c.37-.8,1.17-1.31,2.05-1.31h12.23l-2.9,6.21c-.37.8-1.17,1.31-2.05,1.31Z"/>
+</svg>
