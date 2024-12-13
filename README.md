@@ -4,7 +4,7 @@ Orange icons is a free, open-source icon pack designed with flexibility in mind.
 
 ## 👀 Preview
 
-![icon-preview](https://github.com/user-attachments/assets/0c0fb312-06da-4c76-b20a-2d295e6287bf)
+![icon-preview](https://github.com/user-attachments/assets/b48975d4-31ef-4589-9236-6218186fcd9c)
 
 ## ✨ Features
 
