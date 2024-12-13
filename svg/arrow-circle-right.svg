@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="uuid-b8bc6cc1-a338-477f-9986-3d5633e9efd1" xmlns="http://www.w3.org/2000/svg" width="13.97" height="13.97" viewBox="0 0 13.97 13.97"><line x1="2.64" y1="6.99" x2="10.34" y2="6.99" fill="none" stroke="#000" stroke-miterlimit="10"/><polyline points="6.69 10.64 10.34 6.99 6.69 3.33" fill="none" stroke="#000" stroke-miterlimit="10"/><circle cx="6.99" cy="6.99" r="6.49" fill="none" stroke="#000" stroke-miterlimit="10"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.98 13.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g>
+    <line class="cls-1" x1="3.21" y1="7" x2="9.77" y2="7"/>
+    <polyline class="cls-1" points="6.66 10.1 9.77 7 6.66 3.89"/>
+  </g>
+  <circle class="cls-1" cx="6.99" cy="6.99" r="6.49"/>
+</svg>
