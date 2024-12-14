@@ -1,7 +1,7 @@
 {
   "name": "@capybaraicons/orange_icons",
   "type": "module",
-  "version": "1.1.4",
+  "version": "1.1.6",
   "description": "200+ Open source, free, 24px 1pt icons. Works very well up to 2pt.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CapybaraIcons/orange-icons.git"
+    "url": "git+https://github.com/CapybaraIcons/orange-icons.git"
   },
   "keywords": [
     "icons"
