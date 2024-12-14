@@ -1,15 +1,15 @@
 {
-  "name": "orange_icons",
+  "name": "@capybaraicons/orange_icons",
   "type": "module",
-  "version": "1.1.1",
-  "description": "Open source, free, 24px 1pt icons. Works very well up to 2pt.",
+  "version": "1.1.4",
+  "description": "200+ Open source, free, 24px 1pt icons. Works very well up to 2pt.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CapybaraIcons/orange-icons.git"
+    "url": "https://github.com/CapybaraIcons/orange-icons.git"
   },
   "keywords": [
     "icons"
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/CapybaraIcons/orange-icons#readme",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
   }
 }
