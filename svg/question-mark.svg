@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="uuid-bfc72b65-6372-4a08-9719-05749af35c34" xmlns="http://www.w3.org/2000/svg" width="9.49" height="16.96" viewBox="0 0 9.49 16.96"><circle cx="3.97" cy="15.79" r=".66" stroke="#000" stroke-miterlimit="10"/><path d="m3.74,12.35v-1.12c0-.19,0-.49.13-.8.39-.99,1.45-1.2,2.51-1.84.3-.19,1.85-1.13,2.39-2.61.5-1.39.15-3.38-1.24-4.55C5.71-.11,2.85.38,1.46,2.02c-.95,1.12-.97,2.5-.95,2.96" fill="none" stroke="#000" stroke-miterlimit="10"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.21 16.25">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="3.85" cy="15.3" r=".45"/>
+  <path class="cls-2" d="m3.63,11.97v-1.08c0-.18,0-.47.13-.77.38-.96,1.4-1.16,2.43-1.78.29-.18,1.79-1.09,2.31-2.53.48-1.35.15-3.27-1.2-4.4C5.54-.09,2.77.39,1.42,1.97c-.92,1.08-.94,2.42-.92,2.86"/>
+</svg>
