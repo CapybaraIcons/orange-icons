@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="uuid-fc731a19-69db-402b-be52-6e42229a2482" xmlns="http://www.w3.org/2000/svg" width="17.84" height="17.84" viewBox="0 0 17.84 17.84"><circle cx="8.85" cy="4.95" r=".64" stroke="#000" stroke-miterlimit="10"/><line x1="8.85" y1="7.24" x2="8.85" y2="14.82" stroke="#000" stroke-miterlimit="10"/><circle cx="8.92" cy="8.92" r="8.42" fill="none" stroke="#000" stroke-miterlimit="10"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.98 13.98">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <circle class="cls-2" cx="6.99" cy="6.99" r="6.49"/>
+  <line class="cls-2" x1="6.98" y1="7.09" x2="6.98" y2="11.11"/>
+  <circle class="cls-1" cx="6.99" cy="4.7" r=".47"/>
+</svg>

@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="uuid-2528b6b0-343c-42ed-a226-4a752f8beba5" xmlns="http://www.w3.org/2000/svg" width="2.18" height="13.97" viewBox="0 0 2.18 13.97"><circle cx="1.09" cy="12.92" r=".55" stroke="#000" stroke-miterlimit="10"/><polygon points="1.09 .5 .53 .5 1.09 9.87 1.65 .5 1.09 .5" stroke="#000" stroke-miterlimit="10"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4.82 13.97">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="2.41" cy="12.92" r=".55"/>
+  <path class="cls-2" d="m2.41.5H.96c-.29,0-.51.27-.45.56l1.87,8.7h.05L4.31,1.06c.06-.29-.16-.56-.45-.56h-1.45Z"/>
+</svg>
