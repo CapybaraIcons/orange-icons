@@ -4,7 +4,7 @@ Orange icons is a free, open-source icon pack designed with flexibility in mind.
 
 ## 👀 Preview
 
-![icon-preview](https://github.com/user-attachments/assets/792e06a6-6164-4cb4-92fe-fede0b37236f)
+![icon-preview](https://github.com/user-attachments/assets/135bce1d-c89f-4fdc-83bc-d9b39dab15f5)
 
 ## ✨ Features
 
@@ -14,5 +14,5 @@ Orange icons is a free, open-source icon pack designed with flexibility in mind.
 
 ## 📘 Installation
 ```
-$ npm install @capybaraicons/orange_icons@1.1.9
+$ npm install @capybaraicons/orange_icons@1.1.10
 ```
