@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="uuid-c8bac2e1-ec72-4dd2-be5a-e3c5ad4c7a98" xmlns="http://www.w3.org/2000/svg" width="19.22" height="13.7" viewBox="0 0 19.22 13.7"><path d="m16.81,1c.78,0,1.42.64,1.42,1.42v8.86c0,.78-.64,1.42-1.42,1.42H2.42c-.78,0-1.42-.64-1.42-1.42V2.42c0-.78.64-1.42,1.42-1.42h14.39m0-1H2.42C1.08,0,0,1.08,0,2.42v8.86c0,1.33,1.08,2.42,2.42,2.42h14.39c1.33,0,2.42-1.08,2.42-2.42V2.42c0-1.33-1.08-2.42-2.42-2.42h0Z" stroke-width="0"/><polyline points="1.13 1.12 9.61 6.85 18.1 1.12" fill="none" stroke="#000" stroke-linejoin="round"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.97 13.59">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-2 {
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-1" points=".51 1.25 8.99 6.98 17.48 1.25"/>
+  <rect class="cls-2" x=".5" y=".5" width="16.97" height="12.59" rx="1.03" ry="1.03"/>
+</svg>
