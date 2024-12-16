@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="uuid-24db6e7e-0b4c-453f-954a-09d3699053e6" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17"><path d="m12.89,12.54l.94-3.65,2.56-2.56c.15-.15.15-.38,0-.53L11.19.61c-.15-.15-.38-.15-.53,0l-2.56,2.56-3.65.94c-.87.22-1.17,1.31-.53,1.95l7.01,7.01c.64.64,1.73.34,1.95-.53Z" fill="none" stroke="#000" stroke-linecap="round"/><line x1="7.43" y1="9.57" x2=".71" y2="16.29" fill="none" stroke="#000" stroke-linecap="square" stroke-linejoin="round"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.81 14.81">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linecap: square;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="m10.7,12.54l.94-3.65,2.56-2.56c.15-.15.15-.38,0-.53L9,.61c-.15-.15-.38-.15-.53,0l-2.56,2.56-3.65.94c-.87.22-1.17,1.31-.53,1.95l7.01,7.01c.64.64,1.73.34,1.95-.53h.01Z"/>
+  <line class="cls-1" x1="5.24" y1="9.57" x2=".71" y2="14.1"/>
+</svg>
