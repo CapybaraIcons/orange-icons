@@ -23,5 +23,9 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   }
 }
