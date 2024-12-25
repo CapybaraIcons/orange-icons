@@ -1,5 +1,5 @@
 ---
-name: icon-request
+name: Icon request
 about: Suggest an icon for this project
 title: "[ICON REQUEST]"
 labels: icon request
