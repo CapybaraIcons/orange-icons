@@ -3,11 +3,15 @@
 Thanks for your interest in contributing! These guidelines will help you get started.
 
 > [!IMPORTANT]
-> We are not accepting pull requests containing **icons**. If you want to add a new icon, please create an icon request.
+> We are not accepting pull requests containing **icons**. If you want to add a new icon, please create an icon request at [Icon Request](#icon-request).
 
 Want to add a new icon? Create an issue and include:
 - What the icon is and what it's for
 - Any example images that help explain your idea
+
+# Icon request
+
+[Open icon-request issue](.github/ISSUE_TEMPLATE/icon-request.md)
 
 ## Other Contributions
 
