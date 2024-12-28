@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.31 14.95">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g>
+    <g>
+      <line class="cls-2" x1="7.63" y1="9.77" x2="7.64" y2="12.91"/>
+      <path class="cls-1" d="m10.27,14.53l-2.2-1.35c-.26-.16-.6-.16-.86,0l-2.17,1.35"/>
+    </g>
+    <g>
+      <line class="cls-2" x1="5.66" y1="8.6" x2="2.94" y2="10.18"/>
+      <path class="cls-1" d="m2.85,13.27l.07-2.58c0-.31-.16-.6-.43-.75L.24,8.74"/>
+    </g>
+    <g>
+      <line class="cls-2" x1="5.68" y1="6.31" x2="2.95" y2="4.75"/>
+      <path class="cls-1" d="m.24,6.22l2.27-1.23c.27-.15.44-.44.43-.75l-.08-2.55"/>
+    </g>
+    <g>
+      <line class="cls-2" x1="7.67" y1="5.18" x2="7.67" y2="2.04"/>
+      <path class="cls-1" d="m5.04.43l2.2,1.35c.26.16.6.16.86,0l2.17-1.35"/>
+    </g>
+    <g>
+      <line class="cls-2" x1="9.65" y1="6.35" x2="12.37" y2="4.77"/>
+      <path class="cls-1" d="m12.45,1.69l-.07,2.58c0,.31.16.6.43.75l2.25,1.2"/>
+    </g>
+    <g>
+      <line class="cls-2" x1="9.63" y1="8.64" x2="12.35" y2="10.21"/>
+      <path class="cls-1" d="m15.07,8.74l-2.27,1.23c-.27.15-.44.44-.43.75l.08,2.55"/>
+    </g>
+  </g>
+  <circle class="cls-2" cx="7.65" cy="7.44" r="2.34"/>
+</svg>
