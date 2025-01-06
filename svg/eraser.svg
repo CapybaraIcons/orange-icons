@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.86 14.23">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.64 14.23">
   <defs>
     <style>
       .cls-1 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2 {
         fill: none;
         stroke: #000;
+      }
+
+      .cls-2 {
         stroke-miterlimit: 10;
+        stroke-width: 1px;
       }
     </style>
   </defs>
-  <path class="cls-1" d="m29.97,1.54h5.34c.43,0,.78.35.78.78v6.58h-6.91V2.32c0-.43.35-.78.78-.78Z" transform="translate(13.25 -21.55) rotate(45)"/>
-  <path class="cls-1" d="m29.01,13.73l3.47-3.47-4.88-4.88-4.65,4.65c-.31.31-.31.8,0,1.11l2.4,2.4c.12.12.29.19.47.19h11.58"/>
+  <path class="cls-2" d="m11.14.74l3.78,3.78c.3.3.3.8,0,1.1l-4.65,4.65-4.89-4.89L10.03.73c.3-.3.8-.3,1.1,0h0Z"/>
+  <path class="cls-1" d="m6.79,13.73l3.47-3.47-4.88-4.88L.73,10.03c-.31.31-.31.8,0,1.11l2.4,2.4c.12.12.29.19.47.19h11.58"/>
 </svg>
