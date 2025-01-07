@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.58 16.58">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="8.29" cy="8.29" r="1.06"/>
+  <ellipse class="cls-1" cx="8.29" cy="8.29" rx="10.35" ry="3.89" transform="translate(-3.43 8.29) rotate(-45)"/>
+  <ellipse class="cls-1" cx="8.29" cy="8.29" rx="3.89" ry="10.35" transform="translate(-3.43 8.29) rotate(-45)"/>
+</svg>
