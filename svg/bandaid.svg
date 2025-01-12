@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.2 16.2">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.43 15.43">
   <defs>
     <style>
       .cls-1 {
@@ -9,6 +9,12 @@
       }
     </style>
   </defs>
-  <rect class="cls-1" x="5.16" y="-1.43" width="5.88" height="19.07" rx="2.94" ry="2.94" transform="translate(19.56 8.1) rotate(135)"/>
-  <circle class="cls-1" cx="8.13" cy="8.13" r=".34"/>
+  <rect class="cls-1" x="-.67" y="3.33" width="16.78" height="8.77" rx="4.38" ry="4.38" transform="translate(-3.2 7.72) rotate(-45)"/>
+  <line class="cls-1" x1="5.99" y1="5.99" x2="9.45" y2="9.45"/>
+  <circle class="cls-1" cx="11.97" cy="6.28" r=".04"/>
+  <circle class="cls-1" cx="11.7" cy="3.73" r=".04"/>
+  <path class="cls-1" d="m9.15,3.42s.04.02.04.04-.02.04-.04.04-.04-.02-.04-.04.02-.04.04-.04Z"/>
+  <circle class="cls-1" cx="3.46" cy="9.15" r=".04"/>
+  <path class="cls-1" d="m3.73,11.74s-.04-.02-.04-.04c0-.02.02-.04.04-.04s.04.02.04.04c0,.02-.02.04-.04.04Z"/>
+  <path class="cls-1" d="m6.28,12.01s-.04-.02-.04-.04.02-.04.04-.04.04.02.04.04c0,.02-.02.04-.04.04Z"/>
 </svg>
