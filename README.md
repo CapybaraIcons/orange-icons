@@ -2,7 +2,7 @@
   
   <img width="464" alt="orange-icon-logo" src="https://github.com/user-attachments/assets/502d1835-3734-4776-96d7-64a26b1aeb97" style="width: 240px" />
   <h1>Orange Icons</h1>
-    <h4>580+ Free, Open source icons</h4>
+    <h4>700+ Free, Open source icons</h4>
   
 </div>
 
