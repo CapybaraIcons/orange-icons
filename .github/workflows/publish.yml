@@ -28,7 +28,7 @@ jobs:
         with:
           node-version: 18
           registry-url: "https://registry.npmjs.org"
-      - run: npm publish orange_icons-*.tgz --access public
+      - run: npm publish capybaraicons-orange_icons-*.tgz --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
@@ -39,6 +39,6 @@ jobs:
           node-version: 18
           registry-url: "https://npm.pkg.github.com"
           scope: "@capybaraicons" # Link scope to GitHub's registry
-      - run: npm publish orange_icons-*.tgz
+      - run: npm publish capybaraicons-orange_icons-*.tgz
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
