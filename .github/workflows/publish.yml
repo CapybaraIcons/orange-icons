@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      packages: write  # For GitHub Packages
+      packages: write # For GitHub Packages
 
     steps:
       - name: Checkout Repo
@@ -26,7 +26,7 @@ jobs:
       - name: Publish to npm
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 18
           registry-url: "https://registry.npmjs.org"
       - run: npm publish orange_icons-*.tgz --access public
         env:
@@ -38,7 +38,7 @@ jobs:
         with:
           node-version: 20
           registry-url: "https://npm.pkg.github.com"
-          scope: "@capybaraicons"  # Link scope to GitHub's registry
+          scope: "@capybaraicons" # Link scope to GitHub's registry
       - run: npm publish orange_icons-*.tgz --workspace=false
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
