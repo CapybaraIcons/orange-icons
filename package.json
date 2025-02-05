@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/CapybaraIcons/orange-icons#readme",
   "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com/"
+    "access": "public"
   }
 }
