@@ -1,35 +1,44 @@
-name: Publish Package (github and npm)
+name: Publish to npm and GitHub Packages
 
 on:
-    push:
-        tags:
-            - "v*"
+  push:
+    tags:
+      - "v*"
 
 jobs:
-    publish:
-        runs-on: ubuntu-latest
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write  # For GitHub Packages
 
-        steps:
-            - name: Checkout Repo
-              uses: actions/checkout@v4
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
 
-            - name: Set up Node
-              uses: actions/setup-node@v4
-              with:
-                node-version: 18
-                registry-url: 'https://registry.npmjs.org/'
+      # Build the package and create a tarball
+      - name: Install and Pack
+        run: |
+          npm ci
+          npm pack  # Creates orange_icons-1.1.22.tgz
 
-            - name: Install Dependencies
-              run: npm ci
+      # Publish to npm (unscoped)
+      - name: Publish to npm
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          registry-url: "https://registry.npmjs.org"
+      - run: npm publish orange_icons-*.tgz --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-            - name: Publish to npmjs
-              env: 
-                NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-              run: npm publish --access public
-
-            - name: Publish to git
-              env:
-                NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-              run: |
-                npm config set registry https://npm.pkg.github.com/
-                npm publish
+      # Publish to GitHub Packages (scoped)
+      - name: Publish to GitHub Packages
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          registry-url: "https://npm.pkg.github.com"
+          scope: "@capybaraicons"  # Link scope to GitHub's registry
+      - run: npm publish orange_icons-*.tgz --workspace=false
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
