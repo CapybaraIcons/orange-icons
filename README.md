@@ -1,3 +1,6 @@
+[![MIT License](https://badgen.net/static/license/MIT)](https://github.com/CapybaraIcons/orange-icons/blob/main/LICENSE)
+[![NPM Version](https://badgen.net/npm/v/@capybaraicons/orange_icons?color=red)](https://www.npmjs.com/package/@capybaraicons/orange_icons)
+
 <div align="center">
   
   <img width="464" alt="orange-icon-logo" src="https://github.com/user-attachments/assets/502d1835-3734-4776-96d7-64a26b1aeb97" style="width: 240px" />
